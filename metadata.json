@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster - Flutter Android Quiz App",
+  "description": "Interactive Android quiz app powered by Open Trivia DB with categories, custom questions, high scores, and complete Flutter & Dart source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
